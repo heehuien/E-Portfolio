@@ -1,14 +1,16 @@
 Hi 👋 My name is Hee Hui En
 ===========================
 
-Student of Computer Network and Security
+Get To Know Me
 ----------------------------------------
 
-I'm year 1 student who currently studying computer network and security.
+I'm first-year student who currently studying computer network and security.
 
 * 🌍  I'm based in Malaysia
-* 🖥️  See my portfolio at [My Portfolio](http://html5up.net/solid-state)
+* 🖥️  See my portfolio at [My Portfolio](http://127.0.0.1:5501/index.html)
 * ✉️  You can contact me at [heehuien0123@gmail.com](mailto:heehuien0123@gmail.com)
+
+### Skills
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
